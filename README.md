@@ -1,5 +1,7 @@
 Group 8: Phuong Tieu – Angela Liu – Mohammed Nasser – Claudia Sandoval
 
+Due Date: 01-08-2022
+
 # Guidelines for ETL Project
 
 This document contains guidelines, requirements, and suggestions for Project 1.
